@@ -7,3 +7,9 @@ I believe that building software should be a fun and a creative process. I'm alw
 <img src="https://s.w.org/favicon.ico?2" width=16 height=16> [WordPress Profile](https://profiles.wordpress.org/lucasbustamante/)
 
 <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" width=16 height=16> [StackOverflow Profile](https://stackoverflow.com/users/2056484/lucas-bustamante?tab=profile)
+
+
+### Writings:
+- [Good Code.](https://lucasbustamante.dev/2022/05/13/good-code/)
+
+
